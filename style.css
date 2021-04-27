@@ -1,0 +1,28 @@
+.container {
+border: 3px solid blueviolet;
+width:50%;
+top:0;
+left: 25%;
+position: fixed
+}
+
+.header {
+  text-align:center;
+}
+
+.Pokemon {
+  width: 25%;
+  display: block;
+  margin: auto;
+}
+
+.HGSS {
+  width: 50%;
+  float: left;
+  padding: 3px;
+}
+
+.Basketball {
+  height: 2000px;
+  width: 500px;
+}
