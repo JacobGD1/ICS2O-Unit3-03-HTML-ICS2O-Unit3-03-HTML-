@@ -10,19 +10,19 @@ position: fixed
   text-align:center;
 }
 
-.Pokemon {
+.pokemon {
   width: 25%;
   display: block;
   margin: auto;
 }
 
-.HGSS {
+.hgss {
   width: 50%;
   float: left;
   padding: 3px;
 }
 
-.Basketball {
+.basketball {
   height: 2000px;
   width: 500px;
 }
